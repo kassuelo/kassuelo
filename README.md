@@ -1,10 +1,9 @@
-- 👋 Hello, I'm @kassuelo
-- 👀 I am interested in pursuing a promising career in the world of programming.
-- 🌱 I am currently working with Node.js, React.js, Redux and PostgreSQL.
-- 💞️ I'm looking to collaborate on projects, preferably in the back-end development
-- 📫 How to reach me: kassuelo.mo@hotmail.com 
+👋 Hello, I'm @kassuelo — https://kadev.com.br
 
-<!---
-kassuelo/kassuelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I am focused on building a solid and promising career in software development.
+
+🌱 Currently working with Node.js, React.js, Redux, PostgreSQL, and studying Clojure with an interest in functional programming.
+
+💼 I’m looking to collaborate on projects, preferably in back-end development, contributing to robust and scalable solutions.
+
+📫 You can reach me at: kassuelo.mo@hotmail.com
